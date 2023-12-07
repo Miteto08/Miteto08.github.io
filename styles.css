@@ -1,0 +1,429 @@
+body {
+    background-image: url('/css_advanced/images/first_section/background.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top, center;
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logos {
+    width: 13%;
+    margin-left: 100px;
+    margin-top: 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+.links {
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    position: relative;
+    left: 750px;
+    padding: 25px;
+    bottom: 15px;
+    cursor: pointer;
+}
+
+.titles {
+    text-align: center;
+    color: white;
+    font-size: 120px;
+    font-weight: 700;
+    padding-top: 55px;
+    margin-bottom: 60px;
+}
+
+.t1 {
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 75px;
+    display: inline;
+    left: 565px;
+    margin: 28px;
+    font-weight: 700;
+}
+
+.btn1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 160px;
+    height: 45px;
+    position: relative;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.50);
+    background: #C271FF;
+    border-radius: 22px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    left: 330px;
+    border: none;
+}
+
+.head2 span {
+    color: #C271FF;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.flex-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 140px;
+}
+
+.head2 {
+    color: white;
+    font-size: 32px;
+    font-weight: 300;
+    position: relative;
+    justify-content: center;
+}
+
+.person-card {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 100px;
+}
+
+.person {
+    text-align: center;
+    padding: 70px;
+}
+
+.person img {
+    display: block;
+}
+
+.name {
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.bestsmile {
+    width: 150px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: -15px;
+}
+
+
+.quote {
+    position: relative;
+    width: 1440px;
+    height: 392px;
+    background: #C271FF;
+    margin-top: 23px;
+}
+
+.image {
+    left: 250px;
+    top: 80px;
+    position: absolute;
+
+}
+
+.text {
+    width: 730px;
+    height: 158px;
+    margin-left: 500px;
+    position: absolute;
+    top: 60px;
+}
+
+.ThoseTutorialsAr {
+    width: 730px;
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33.60px;
+}
+
+.PersonName {
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 33.60px;
+}
+
+.WeatherPresenter {
+    color: white;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 33.60px;
+}
+
+/* part 2*/
+
+.Part2Tutorials {
+    width: 1228px;
+    height: 450px;
+    position: relative;
+}
+
+.part2 {
+    color: #071629;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 70px;
+    font-weight: 300;
+}
+
+.part2 span {
+    color: #C271FF;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.back {
+    width: 255px;
+    height: 335px;
+    top: 0px;
+    left: 158px;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+    border-radius: 5px;
+}
+
+.back2 {
+    width: 255px;
+    height: 335px;
+    left: 444px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+    border-radius: 5px;
+}
+
+.back3 {
+    width: 255px;
+    height: 335px;
+    left: 729px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+    border-radius: 5px;
+}
+
+.back4 {
+    width: 255px;
+    height: 335px;
+    left: 1014px;
+    overflow-x: hidden;
+    top: 0px;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+    border-radius: 5px;
+}
+
+.PhillipMassey {
+    color: #C271FF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 28px;
+    word-wrap: break-word;
+    margin-left: 50px;
+}
+
+.avatar6 {
+    width: 30px;
+    height: 30px;
+    left: 10px;
+    position: absolute;
+}
+
+.text3 {
+    width: 242px;
+    color: rgba(7, 22, 41, 0.50);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    position: relative;
+    left: 10px;
+}
+
+.DiagonalSmile {
+    color: #071629;
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    left: 10px;
+}
+
+.Min {
+    position: relative;
+    left: 210px;
+    color: #C271FF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 10px;
+}
+
+.rating {
+    left: 10px;
+    position: absolute;
+}
+
+.play {
+    width: 64px;
+    height: 64px;
+    left: 90px;
+    top: 45px;
+    position: absolute;
+    opacity: 0.86;
+}
+
+/*Part3FreeMembership*/
+
+.Part3FreeMembership {
+    width: 1440px;
+    height: 400px;
+    background: #071629;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.member {
+    background: #071629;
+    margin: 0;
+    padding-top: 70px;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: 300;
+    position: relative;
+}
+
+.member span {
+    color: #C271FF;
+    font-weight: 700;
+}
+
+.details {
+    position: relative;
+    top: 60px;
+    right: -90px;
+}
+
+.text4 {
+    width: 221px;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.head3 {
+    width: 256px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+}
+
+.smile {
+    position: relative;
+    left: 100px;
+}
+
+.btn2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 162px;
+    height: 44px;
+    position: absolute;
+    background: #C271FF;
+    border-radius: 22px;
+    position: relative;
+    top: 300px;
+    left: -520px;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+}
+
+.faq {
+    text-align: center;
+    color: #071629;
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.HowDoesThisWork {
+    color: #071629;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.LoremIpsumDolorSi {
+    width: 350px;
+    color: rgba(7, 22, 41, 0.50);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.FAQ {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer {
+    width: 1440px;
+    margin-top: 70px;
+    height: 249px;
+    position: absolute;
+    background: #071629;
+}
+
+.logo {
+    width: 169px;
+    height: 30px;
+    position: relative;
+    top: 100px;
+    left: 120px;
+}
+
+.share {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    left: 1100px;
+    top: 90px;
+    position: absolute;
+}
+
+.social-logo {
+    margin: 10px;
+}
+
+.smileschool {
+    opacity: 0.35;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    top: 160px;
+}
